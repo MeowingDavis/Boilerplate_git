@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+:root{
+    --colour-one: rgb(0,0,0);
+    --colour-two: rgb(100,100,100);
+    --colour-three: rgb(180,180,180);
+    --colour-four: rgb(240,240,240);
+    --border-one: dashed 2px white;
+}
